@@ -1,0 +1,54 @@
+[
+  {
+    "relationshipType": "cross-reference",
+    "words": [
+      "rainbow style",
+      "spurious"
+    ]
+  },
+  {
+    "relationshipType": "equivalent",
+    "words": [
+      "sea bow"
+    ]
+  },
+  {
+    "relationshipType": "hypernym",
+    "words": [
+      "arc",
+      "bow",
+      "hope",
+      "promise"
+    ]
+  },
+  {
+    "relationshipType": "same-context",
+    "words": [
+      "colorful",
+      "crimson",
+      "dazzle",
+      "emerald",
+      "flame",
+      "lightning",
+      "moonlight",
+      "multicolored",
+      "radiance",
+      "silver"
+    ]
+  },
+  {
+    "relationshipType": "synonym",
+    "words": [
+      "Amytal",
+      "Amytal pill",
+      "Dalmatian",
+      "Demerol",
+      "Dolophine",
+      "H",
+      "Luminal",
+      "Luminal pill",
+      "M",
+      "Mickey Finn"
+    ]
+  }
+]
